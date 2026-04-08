@@ -1,9 +1,9 @@
 ## Hey there! 👻
 My name is [**Eduardo Alves**](https://eduardo-alves.pt), a software engineering student at the University of Aveiro, based in Portugal.
 
-📚 I’m currently finishing my **Bachelor’s in Computer and Informatics Engineering**.  
-🎓 I’m also pursuing my **Master’s in Computers and Telematics Engineering**.  
-💡 I’m passionate about technology, especially in areas like **Artificial Intelligence**, **Software Development**, and **Cybersecurity**.  
+- I’m currently finishing my **Bachelor’s in Computer and Informatics Engineering**.  
+- I’m also pursuing my **Master’s in Computers and Telematics Engineering**.  
+- I’m passionate about technology, especially in areas like **Artificial Intelligence**, **Software Development**, and **Cybersecurity**.  
 
 
 Outside of academics, I enjoy playing **chess**, exploring new places through **traveling**, and staying active at the **gym**.  
